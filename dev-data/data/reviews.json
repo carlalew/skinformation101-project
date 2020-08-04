@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "review": "Love this product - use it every day!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "product": "5f0f3b15cbd33c18144f2ad9"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "review": "Can't recommend this enough!",
+    "rating": 4,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "product": "5f0f3b15cbd33c18144f2ad8"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "review": "Great product!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "product": "5f0f3b15cbd33c18144f2adb"
+  },
+  {
+    "_id": "5c8a35b614eb5c17645c910b",
+    "review": "Love this product! It puts the 'Fairy' in 'Fairytale'!",
+    "rating": 4,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "product": "5f0f3b15cbd33c18144f2add"
+  },
+  {
+    "_id": "5c8a364c14eb5c17645c910c",
+    "review": "Everyone needs to buy this!!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  },
+  {
+    "_id": "5c8a368c14eb5c17645c910d",
+    "review": "Awesome product - I'm positively glowing!",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "product": "5f0f3b15cbd33c18144f2adb"
+  },
+  {
+    "_id": "5c8a36a014eb5c17645c910e",
+    "review": "love it love it love it!!!",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "product": "5f0f3b15cbd33c18144f2ad8"
+  },
+  {
+    "_id": "5c8a36b714eb5c17645c910f",
+    "review": "My must have - Great product!",
+    "rating": 4,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  },
+  {
+    "_id": "5c8a379a14eb5c17645c9110",
+    "review": "Can't go anywhere without this gem! Love it!",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "product": "5f0f3b15cbd33c18144f2ad9"
+  },
+  {
+    "_id": "5c8a37b114eb5c17645c9111",
+    "review": "Great product! Very similar ones out there, but this is worth the money!",
+    "rating": 4,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "product": "5f0f3b15cbd33c18144f2add"
+  },
+  {
+    "_id": "5c8a37cb14eb5c17645c9112",
+    "review": "This is my favourite thing I own!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "product": "5f0f3b15cbd33c18144f2adb"
+  },
+  {
+    "_id": "5c8a37dd14eb5c17645c9113",
+    "review": "Would reccomend to a friend!",
+    "rating": 4,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "product": "5f0f3b15cbd33c18144f2ad8"
+  },
+  {
+    "_id": "5c8a37f114eb5c17645c9114",
+    "review": "Feeling absolutely fabulous since I bought this!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  },
+  {
+    "_id": "5c8a381714eb5c17645c9115",
+    "review": "Do your skin a favour and BUY THIS NOW!!!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "product": "5f0f3b15cbd33c18144f2ad9"
+  },
+  {
+    "_id": "5c8a382d14eb5c17645c9116",
+    "review": "Such a gentle product - amazing for senstive skin!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "product": "5f0f3b15cbd33c18144f2ad8"
+  },
+  {
+    "_id": "5c8a384114eb5c17645c9117",
+    "review": "This is my go to product day and night!",
+    "rating": 5,
+    "user": "5c8a1f292f8fb814b56fa184",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  },
+  {
+    "_id": "5c8a385614eb5c17645c9118",
+    "review": "My skin is glowing since I bought this!",
+    "rating": 5,
+    "user": "5c8a1f292f8fb814b56fa184",
+    "product": "5f0f3b15cbd33c18144f2ade"
+  },
+  {
+    "_id": "5c8a387214eb5c17645c9119",
+    "review": "Works like magic!!",
+    "rating": 5,
+    "user": "5c8a1f292f8fb814b56fa184",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  },
+  {
+    "_id": "5c8a38ac14eb5c17645c911a",
+    "review": "My skin feels brand new since I started using this product - love it!",
+    "rating": 5,
+    "user": "5c8a1f292f8fb814b56fa184",
+    "product": "5f0f3b15cbd33c18144f2ada"
+  },
+  {
+    "_id": "5c8a38c714eb5c17645c911b",
+    "review": "Expensive product, but worth every cent!",
+    "rating": 5,
+    "user": "5c8a1f292f8fb814b56fa184",
+    "product": "5f0f3b15cbd33c18144f2ad8"
+  },
+  {
+    "_id": "5c8a38da14eb5c17645c911c",
+    "review": "Best product on the market!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "product": "5f0f3b15cbd33c18144f2ada"
+  },
+  {
+    "_id": "5c8a38ed14eb5c17645c911d",
+    "review": "This has me feeling fabulous all year long!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "product": "5f0f3b15cbd33c18144f2add"
+  },
+  {
+    "_id": "5c8a390d14eb5c17645c911e",
+    "review": "Can't get enough!!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "product": "5f0f3b15cbd33c18144f2ada"
+  },
+  {
+    "_id": "5c8a391f14eb5c17645c911f",
+    "review": "I only came here to purchase this product again, but thought I should leave a review to let everyone else know how amazing it is!!!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "product": "5f0f3b15cbd33c18144f2ad9"
+  },
+  {
+    "_id": "5c8a395b14eb5c17645c9120",
+    "review": "I would be lost without this! Amazing product!!!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "product": "5f0f3b15cbd33c18144f2adc"
+  }
+]

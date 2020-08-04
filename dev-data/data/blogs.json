@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Eyecare 101",
+        "summary": "They say the eyes are the window to the soul. So in that case, we should definitely be dedicating some time to looking after them!",
+        "blogContent": "First, the skin around your eyes is thinner and more delicate than the skin on other parts of your body. And because your eyes work a lot throughout the day, from blinking to expressing your emotions, this alone can cause premature aging!... Moisturizing your skin is one of those underrated steps that often falls by the wayside but shouldn’t. Imagine our skin as a grape. When it loses water, it starts to shrink, and wrinkles can appear. But once you put that water back in, it can help plump up and potentially reduce the appearance of lines and wrinkles. The same applies for our eye area. Since they lack oil glands (our skin’s natural moisturizer), they can be more prone to dryness.....",
+        "coverImage": "blog-eyecare.jpg"
+    },
+    {
+        "title": "Acne 101",
+        "summary": "Whether it was for what felt like eternity during our teenage years, or only recently, well into adulthood, we've all experienced the A word - Acne! Lets talk about it!",
+        "blogContent": "The fight against acne is often an uphill battle, especially if you have stubborn to severe acne. But, thankfully, for most people, even severe acne can be improved with over-the-counter skincare products. Following are essential tips you must know if you want to improve any type of acne, including stubborn to severe acne:• Keep your skincare routine as simple as possible and follow it religiously. (It takes patience and consistency to improve breakouts.)• Use a gentle, but effective, water-soluble cleanser twice daily, with a soft washcloth for extra cleansing. (Drying, harsh cleansers, many cleansing brushes, and scrubs only make matters worse.)• Once or twice a day, use a product with salicylic acid (BHA) to diminish the appearance of redness, to gently exfoliate skin’s surface and inside the pore to improve oil flow, and to improve skin texture.• Never use thick moisturizers (especially creams) in areas where any type of acne occurs, as they can clog pores. Instead, stick with lightweight options with liquid, gel, or serum/lotion textures.",
+        "coverImage": "blog-3.jpg"
+    },
+    {   "title": "Vitamin A 101",
+        "summary": "Did you know we, as humans DO NOT produce the beauty essential vitamin A?! Never fear! We can get all we need in products and supplements, but it is a MUST HAVE for glowing skin!",
+        "blogContent": "Everything that defines healthy looking, beautiful skin is a direct result of vitamin A. It is the only known molecule that helps to keep the skin healthy and provide anti-aging benefits. A vitamin A deficiency could lead to skin abnormalities such as pigmentation irregularities, sun damage, aging and skin cancer. The most common skin care problem in both men and women is sun damage. In order for us to help combat this sun-induced vitamin A deficiency, we must replenish vitamin A in our cells every day and for this process to be affective, we need to help restore the effects of vitamin A receptors within the skin...",
+        "coverImage": "blog-2"
+    }
+]

@@ -1,0 +1,55 @@
+extends base
+
+block content
+    section.section-header
+        .header__hero
+            .header__hero-overlay &nbsp;
+            img.header__hero-img(src='/img/other/flowers-overview.jpg', alt='Flower Image')
+
+        .heading-box
+            h1.heading-primary Get in Contact!
+
+    section.section-description
+        .overview-box
+            div
+            .overview-box__group
+                h2.heading-secondary.ma-bt-lg Contact Details
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Address
+                            span.overview-box__text= 'Skinformation101, 1 Harbour Lane, Dun Laoghaire, Dublin'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Office Phone
+                            span.overview-box__text= '01 837 6684'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label WhatsApp Us!
+                            span.overview-box__text= '086 778 4106'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Email
+                            span.overview-box__text= 'hello@skinformation101.com'
+
+
+
+        .description-box
+            h2.heading-secondary.ma-bt-lg How Can We Help You?
+            p.description__text= `If you have some basic questions about skincare, or want to know more about who we are and what we do, feel free to reach out to us through any of the means on the left and lets chat! If you're debating booking a consultation our advice is always to go ahead and do it! Our therapists are like magicians and make skin concerns disappear as if by magic! Pop over to our Meet the Team page to meet the team! Otherwise, feel free to click the link below to book in for a 1-1 consultation!`
+
+
+    section.section-cta
+        .cta
+            .cta__img.cta__img--logo
+                img(src='/img/logo.png', alt='Skinformation101 Logo')
+            img.cta__img.cta__img--1(src='/img/products/colour-img.png', alt='')
+            img.cta__img.cta__img--2(src='/img/products/colour-img-2.png', alt='')
+            .cta__content
+            h2.heading-secondary What are you waiting for?
+            p.cta__text It's never too late to start looking after your skin!
+            button.btn.btn--green.span-all-rows 
+                a.nav__el(href='/consultations') Book a consultation    

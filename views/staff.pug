@@ -1,0 +1,42 @@
+extends base
+
+block content
+    main.main    
+        .card-container
+            each staff in staffs
+                .card
+                    .card__header
+                        .card__picture
+                            .card__picture-overlay &nbsp;
+                            img.card__picture-img(src=`/img/staff/${staff.photo}`, alt='staff picture')
+                        h3.heading-tertirary
+                            span= staff.name
+
+                    .card__details
+                        h4.card__sub-heading= staff.position
+                        p.card__text= staff.about
+                        .card__data
+                            svg.card__icon
+                                use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span= staff.focus
+                        .card__data
+                            svg.card__icon
+                                use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span= staff.qualification
+                        .card__data
+                            svg.card__icon          
+
+                    .card__footer
+                    
+    section.section-cta.cta--staff
+        .cta
+            .cta__img.cta__img--logo
+                img(src='/img/logo.png', alt='Skinformation101 Logo')
+            img.cta__img.cta__img--1(src='/img/products/colour-img.png', alt='')
+            img.cta__img.cta__img--2(src='/img/products/colour-img-2.png', alt='')
+            .cta__content
+            h2.heading-secondary What are you waiting for?
+            p.cta__text It's never too late to start looking after your skin!
+            button.btn.btn--green.span-all-rows
+                a.nav__el(href='/consultations') Book a consultation                          
+                        

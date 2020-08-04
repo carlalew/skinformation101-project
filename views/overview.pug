@@ -1,0 +1,45 @@
+extends base
+
+block content
+    main.main    
+        .card-container
+            each product in products
+                .card
+                    .card__header
+                        .card__picture
+                            .card__picture-overlay &nbsp;
+                            img.card__picture-img(src=`/img/products/${product.coverImage}`, alt='product image')
+                        h3.heading-tertirary
+                            span= product.name
+
+                    .card__details
+                        h4.card__sub-heading= product.summary
+                        p.card__text= product.application
+                        .card__data
+                            svg.card__icon
+                                use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span= product.skinType
+                        .card__data
+                            svg.card__icon
+                                use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span= product.brand
+                        .card__data
+                            svg.card__icon          
+
+                    .card__footer
+                        p
+                            span.card__footer-value= `€${product.price}`
+                            | 
+                        p.card__ratings
+                            span.card__footer-value= product.ratingsAverage
+                            |
+                            span.card__footer-text rating
+                        a.btn.btn--green.btn--small(href=`/product/${product.slug}`) Details
+                        a.btn.btn--green.btn--delete-product(href=`/delete-product/${product.id}`) Delete
+
+    .container
+        section.section-cta
+                .cta__add-new
+                button.btn.btn--green.span-all-rows
+                    a.nav__el(href='/add-new-product') Add New Product                          
+                        

@@ -1,0 +1,28 @@
+extends base
+
+block content
+    main.main
+        .card-container
+        
+            each blog in blogs
+                .card
+                    .card__header
+                        .card__picture
+                            .card__picture-overlay &nbsp;
+                            img.card__picture-img(src=`/img/blogs/${blog.coverImage}`, alt='Blog Image')
+                        h3.heading-tertirary
+                            span= blog.title
+
+                    .card__details
+                        p.card__sub-heading= blog.summary
+
+                    .card__footer
+                        a.btn.btn--green.btn--small(href=`/blog/${blog.slug}`) Read More
+                        a.btn.btn--green.btn--delete-blog(href=`/delete-blog/${blog.id}`) Delete Blog                        
+
+            .container
+                section.section-cta
+                        .cta__add-new
+                        button.btn.btn--green.span-all-rows
+                            a.nav__el(href='/new-blog') Add New Blog                      
+                        

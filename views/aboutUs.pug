@@ -1,0 +1,55 @@
+extends base
+
+block content
+    section.section-header
+        .header__hero
+            .header__hero-overlay &nbsp;
+            img.header__hero-img(src='/img/other/flowers-overview.jpg', alt='Flower Image')
+
+        .heading-box
+            h1.heading-primary About Skinformation101
+
+    section.section-description
+        .overview-box
+            div
+            .overview-box__group
+                h2.heading-secondary.ma-bt-lg Company Info
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Address
+                            span.overview-box__text= 'Skinformation101, Dun Laoghaire'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Birthday
+                            span.overview-box__text= 'June 01st 2010'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Who are we?
+                            span.overview-box__text= 'A whole community of skincare enthusiasts!'
+                .overview-box__detail
+                    svg.overview-box__icon
+                        use(xlink:href='/img/icons.svg#icon-chevron-right')
+                            span.overview-box__label Our Mission
+                            span.overview-box__text= 'To make everyone feel beautiful in their own skin!'
+
+
+
+        .description-box
+            h2.heading-secondary.ma-bt-lg About Us
+            p.description__text Skinformation101 was just originally a helpful Instagram page that was set up to talk about all kinds skin concerns that people struggled with, that made them feel less beautiful than they are. Because there is nothing okay about feeling less beautiful because of your skin! We all have skin! And skin can be temporamental and sensitive and even sometimes angry.So we set up the page to offer hints and tricks for ovecoming any skin concern. Soon, we were being approached for consultations and recommendations, so we decided to bundle all of our knowledge together and make it available to everyone on this beautiful site! If you have any skin concern you'd like to chat about, why not book a consultation with us? You can do so by clicking the link below!
+
+
+    section.section-cta
+        .cta
+            .cta__img.cta__img--logo
+                img(src='/img/logo.png', alt='Skinformation101 Logo')
+            img.cta__img.cta__img--1(src='/img/products/colour-img.png', alt='')
+            img.cta__img.cta__img--2(src='/img/products/colour-img-2.png', alt='')
+            .cta__content
+            h2.heading-secondary What are you waiting for?
+            p.cta__text It's never too late to start looking after your skin!
+            button.btn.btn--green.span-all-rows 
+                a.nav__el(href='/consultations') Book a consultation            

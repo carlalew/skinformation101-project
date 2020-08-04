@@ -1,0 +1,114 @@
+[
+    {
+    "brand": "Environ",
+    "name":"Environ Eye Gel",
+    "application":"Apply morning and evening",
+    "skinType":"Sensitive",
+    "ratingsAverage":4.7,
+    "ratingsQuantity":0,
+    "price":66.60,
+    "summary":"This eye gel contains essential vitamins, antioxidants and specially selected peptides for use on the delicate and sensitive eye area.",
+    "description":"This eye gel contains essential vitamins, antioxidants and specially selected peptides for use on the delicate and sensitive eye area. It assists in hydrating the skin and minimising the appearance of ­fine lines, helping skin to look younger for longer. At the same time, it helps to improve sun damaged skin cells and enhances the effects of the skin’s natural sun protectors, giving skin a radiant glow.",
+    "coverImage":"Environ-Eye-Gel.jpg",
+    "images":["eyecare-1.jpg","eyecare-2.jpg","eyecare-3.jpg"]
+    },
+    
+    {
+    "brand": "The Ordinary",
+    "name":"THE ORDINARY Hyaluronic Acid 2% + B5",
+    "application":"Apply morning and evening before heavier creams",
+    "skinType":"All skin types.",
+    "ratingsAverage":4.4,
+    "ratingsQuantity":0,
+    "price":6.80,
+    "summary":"Offering the heroic hydrating properties of hyaluronic acid – with an extraordinarily low price tag – this oil-free treatment penetrates deep into skin’s layers to deliver intense, long-lasting moisture that swiftly smooths and perfectly plumps. Enhanced with a boost of vitamin B5 to increase efficacy, this lightweight serum will leave skin softened and strengthened.",
+    "description":"Featuring three types of hyaluronic acid (at low, medium and high molecular weights) this lightweight serum offers serious skin smoothing – at a surprisingly small price. Penetrating the skin to reach its deeper layers, The Ordinary’s Hyaluronic Acid 2% + B5 delivers lasting hydration and offers visible plumping and moisture retention so that skin looks smoother, softer and healthier. The hyaluronic acid at the centre of this super serum attracts up to 1000 times its weight in water, while a brilliant boost of vitamin B5 heals dry and damaged areas by stabilising the skin’s barrier function and promoting the growth of stronger tissue.",
+    "coverImage":"the-ordinary.jpg",
+    "images":["skincare1.jpg","skincare2.jpg","skincare3.jpg"]
+    },
+    
+    
+    {
+    "brand": "Skingredients",
+    "name":"Skingredients Skin Veg",
+    "application":"Apply morning and evening",
+    "skinType":"All skin types",
+    "ratingsAverage":4.7,
+    "ratingsQuantity":0,
+    "price":42.00,
+    "summary":"Skingredients Skin Veg Pre Serum is a super-hydrating and radiance boosting serum that is packed with hyaluronic acid and veggie goodness including broccoli, liquorice root, tomato, radish root and aloe vera extracts",
+    "description":"PHA (polyhydroxy acid) contained in Skin Veg preps your skin for the day ahead by boosting the penetration of any product applied over it while also hydrating the skin and lessening the appearance of lines and wrinkles with pro-collagen peptides. Fruit and veg extracts soothe and brighten the skin. Skingredients Skin Veg Serum also acts as a perfect primer for under make up. ",
+    "coverImage":"skin-veg.jpg",
+    "images":["veggie1.jpg","veggie2.jpg","veggie3.jpg"]
+    },
+
+    {
+    "brand": "Image",
+    "name":"Image Clarifying Gel Cleanser",
+    "application":"Apply to wet face morning and evening - Start with one application per day for the first 2 weeks.",
+    "skinType":"Oily",
+    "ratingsAverage":4.8,
+    "ratingsQuantity":0,
+    "price":35,
+    "summary":"This fresh, foaming cleanser lathers away excess oil and sebum without stripping moisture from the skin. It gently exfoliates pore-clogging surface skin cells with salicylic acid, a proven acne-fighting ingredient, so skin feels smooth and soft, not dry and tight.",
+    "description":"Apply to wet face morning and evening and massage for 1 minute. Repeat cleansing for additional exfoliation. Because excessive drying of the skin may occur, start with one usage daily, then gradually increase to two or three usages daily if needed or as directed by a doctor. If bothersome dryness, irritation or peeling occurs, reduce usage to once a day or every other day. If going outside, use a sunscreen.",
+    "coverImage":"image-skincare.png",
+    "images":["image-skincare2.png","image-skincare3.png","image-skincare4.png"]
+    },
+        
+    {
+    "brand": "Charlotte Tilbury",
+    "name":"CHARLOTTE TILBURY'S MAGIC SERUM CRYSTAL ELIXIR",
+    "application":"Apply morning and evening",
+    "skinType":"All skin types",
+    "ratingsAverage":4.2,
+    "ratingsQuantity":0,
+    "price":66.60,
+    "summary":"A break-through, multi-tasking ingredient, the BioNymph Peptide Complex, fights the ageing process on all fronts: it stimulates collagen production and cell energy and fights free radicals, to reduce the appearance of wrinkles and smooth the skin. ",
+    "description": "A hyaluronic acid booster called Sodium Hyaluronate floods skin with moisture, re-plumping the skin. And an infusion of rose hip oil and vitamin E bring your complexion back to life. Whether youre stressed at your desk, dehydrated after a long-haul flight or an all-night hedonist with hungover skin, cheat the appearance of 8 hours sleep with CHARLOTTES MAGIC CREAM, for a lasting dewy, plumped- up finish. Charlotte's MAGIC CREAM has an SPF15 and, most importantly, an anti- UVA filter to protect the skin from year-round ageing effects of UVA.",
+    "coverImage":"ct-serum.jpg",
+    "images":["ct-serum2.jpg","ct-serum3.jpg","ct-serum4.jpg"]
+    },
+        
+    {
+    "brand": "Bondi Sands",
+    "name":"Bondi Sands Self Tanning Foam - Light/Medium",
+    "application":"Apply all over as desired. Allow to dry for approx. 15 minutes. Leave for a minimum of one our before rinsing.",
+    "skinType":"All skin types",
+    "ratingsAverage":4.5,
+    "ratingsQuantity":0,
+    "price":12,
+    "summary":"Bondi Sands Self Tanning Foam - Light/Medium is a fool-proof tanning mousse that gives you a beautiful golden tan without streaking.",
+    "description":"Bondi Sands Self Tanning Foam - Light/Medium makes tanning quicker and easier than ever! Simply smooth it on with your tanning mitt for an even, streak-free tan. It dries in 15 minutes and develops to a gorgeous glow in as little as 1 hour. Enriched with soothing Aloe Vera and hydrating Coconut to care for your skin. Bondi Sands Self Tanning Foam - Light/Medium is ideal if you have a lighter skin tone or simply want a more subtle, sunkissed tan. If you have an olive skin tone or want a darker tan, try Bondi Sands Self Tanning Foam - Dark.",
+    "coverImage":"bondi-sands",
+    "images":["bondi-1.jpg","bondi-2.jpg","bondi-3.jpg"]
+    },
+        
+    {
+    "brand": "La Roche Posay",
+    "name":"La Roche Posay - Anthelios Invisible Fresh Mist SPF 50",
+    "application":"Apply all over as desired. Allow to dry for approx. 15 minutes. Leave for a minimum of one our before rinsing.",
+    "skinType":"All skin types",
+    "ratingsAverage":4.5,
+    "ratingsQuantity":0,
+    "price":12,
+    "summary":"Exceptionally high broad, photostable UVA/UVB & Infrared protection. Invisible, matt-finish texture. Can be worn over or under make-up",
+    "description":"Suitable for oily and blemish-prone skin and suitable for skin that is prone to sensitivity, sun-intolerance or prickly-heat. Anthelios’ first very high UVA and UVB protection sunscreen with the light, fresh texture of a thermal spring water. The highly moisturising spray is easy to apply, quickly absorbed and delivers a double anti-shine action with an ultra-dry finish and no residual white marks. A fresh fragrance ensures a long lasting clean skin feeling. Can be worn under or on-top of make-up and can be re-applied throughout the day. Water resistant.",
+    "coverImage":"la-roche.jpg",
+    "images":["suncare-1.jpg","suncare-2.jpg","suncare-3.jpg"]
+    },
+        
+    {
+    "brand": "Caudalie",
+    "name":"Caudalie Fleur de Vigne Nourishing Body Lotion",
+    "application":"Apply once daily all over, as desired, with a gentle massage.",
+    "skinType":"All skin types",
+    "ratingsAverage":4.2,
+    "ratingsQuantity":0,
+    "price":7,
+    "summary":"Caudalie Fleur de Vigne Nourishing Body Lotion is a nourishing and antioxidant rich body lotion, with a soft fragrance, for all skin types. Special Edition - Clean Beauty To Go.",
+    "description":"Caudalie Fleur de Vigne Nourishing Body Lotion helps to moisturize and soften the skin, providing a fresh, enveloping and invigorating floral scent.Enriched with polyphenols, grape extract, shea butter, gingko biloba and borage oil for a nourishing, antioxidant, protective and soothing action. Leaves the skin nourished, smooth, soft, protected and healthy.",
+    "coverImage":"caudalie.jpg",
+    "images":["caudalie-2.jpg","caudalie-3.jpg","caudalie-4.jpg"]
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Shrek",
+    "email": "shrek@farfaraway.com",
+    "role": "admin",
+    "active": true,
+    "photo": "shrek.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Fairy Godmother",
+    "email": "godmother@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "godmother.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a1e1a2f8fb814b56fa182",
+    "name": "King Harold",
+    "email": "harold@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "harold.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a1ec62f8fb814b56fa183",
+    "name": "Donkey",
+    "email": "donkey@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "donkey.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a1f292f8fb814b56fa184",
+    "name": "Puss in Boots",
+    "email": "pussinboots@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "puss.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a1f4e2f8fb814b56fa185",
+    "name": "Lord Farquad",
+    "email": "farquad@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "farquad.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a20d32f8fb814b56fa187",
+    "name": "Pinnochio",
+    "email": "pinnochio@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "pinochio.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a211f2f8fb814b56fa188",
+    "name": "Prince Charming",
+    "email": "charming@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "charming.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a23de2f8fb814b56fa18e",
+    "name": "Dragon",
+    "email": "dragon@farfaraway.com",
+    "role": "user",
+    "active": true,
+    "photo": "dragon.jpg",
+    "password": "testpassword"
+  },
+  {
+    "_id": "5c8a24282f8fb814b56fa18f",
+    "name": "Fiona",
+    "email": "fiona@farfaraway.com",
+    "role": "admin",
+    "active": true,
+    "photo": "fiona.jpg",
+    "password": "testpassword"
+  }
+]

@@ -1,0 +1,26 @@
+extends base
+
+block content
+  main.main
+    .consultations-form
+      h2.heading-secondary.ma-bt-lg Book a consultation today!
+      form.form.form--consultations
+        .form__group
+          label.form__label(for='name') Name
+          input#name.form__input(type='name', placeholder='Mrs. Fiona Charming', required)
+        .form__group.ma-bt-md
+          label.form__label(for='email') Email Address
+          input#email.form__input(type='email', placeholder='email@test.com', required)
+        .form__group.ma-bt-md
+          label.form__label(for='phone') Phone Number
+          input#phone.form__input(type='number', placeholder='0851234567', required)          
+        .form__group.ma-bt-md
+          label.form__label(for='skinConcern') Skin Concern
+          input#skinConcern.form__input(type='skinConcern', placeholder='Dryness, Acne, Redness, etc..', required)
+        .form__group.ma-bt-md
+          label.form__label(for='routine') Current Skincare Routine (if any)
+          input#currentRoutine.form__input(type='currentRoutine', placeholder='Cleans morning and evening, etc..', required)                      
+        .form__group
+          p.cta__text *Please note that consultations start at €40. One of our therapists will contact you to advise on availability and price within 24hours.
+        
+          button.btn.btn--green Book Consultation

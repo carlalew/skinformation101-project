@@ -1,0 +1,21 @@
+extends base
+
+block content
+    main.main
+        .new-blog-form
+            h2.heading-secondary.ma-bt-lg Add New Blog
+            form.form--new-blog
+                .form__group
+                    label.form__label(for='title') Title
+                    input#title.form__input(type='title', placeholder='Blog Title', required)
+                .form__group.ma-bt-md
+                    label.form__label(for='summary') Summary
+                    input#summary.form__input(type='summary', placeholder='a brief intro to the blog', required)               
+                .form__group.ma-bt-md
+                    label.form__label(for='blogContent') Blog Content
+                    input#blogContent.form__input(type='blogContent', placeholder='Enter full blog here', required)
+                .form__group.ma-bt-md
+                    label.form__label(for='coverImage') Upload Cover Image
+                    input#coverImage.form__input(type='coverImage', placeholder='test.jpg')                                                                                
+                .form__group
+                    button.btn.btn--green Create New Blog
