@@ -6,7 +6,8 @@ const helmet = require('helmet');
 const mongoSanitize = require('express-mongo-sanitize');
 const xss = require('xss-clean');
 const hpp = require('hpp');
-
+const cookieParser = require('cookie-parser');
+const compression = require('compression');
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
 const productRouter = require('./routes/productRoutes');
@@ -16,7 +17,6 @@ const blogRouter = require('./routes/blogRoutes');
 const viewRouter = require('./routes/viewsRoutes');
 const consultationRouter = require('./routes/consultationRoutes');
 const staffRouter = require('./routes/staffRoutes')
-const cookieParser = require('cookie-parser');
 
 const app = express();
 
@@ -65,6 +65,8 @@ app.use(hpp({
 app.use((req, res, next) => {
     next();
 })
+
+app.use(compression())
 
 // Test middleware
 
